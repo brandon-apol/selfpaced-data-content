@@ -1,0 +1,172 @@
+﻿Month,Transaction Number,Product Code,Product Description,Store Cost,Sale Price,Profit,"Commision 10% for items less than $50. For items over $50, commission at 20%.",Sales Person,Sale Location
+Jan,"1,001",9822,Wah Pedal,58.3,98.4,,,Chuck Jones,NM
+Jan,"1,002",2877,Drumsticks,11.4,16.3,,,Silvio Hernandez,CA
+Jan,"1,003",2499,6 ft Instrument Cable,6.2,9.2,,,Jeremy Smith,AZ
+Jan,"1,004",8722,Electric Guitar,344,502,,,Chuck Jones,AZ
+Jan,"1,005",1109,Stickers,3,8,,,Jeremy Smith,AZ
+Jan,"1,006",9822,Wah Pedal,58.3,98.4,,,Jeremy Smith,AZ
+Jan,"1,007",1109,Stickers,3,8,,,Patricia Johnson,NM
+Jan,"1,008",2877,Drumsticks,11.4,16.3,,,Jeremy Smith,NM
+Jan,"1,009",1109,Stickers,3,8,,,Jeremy Smith,AZ
+Jan,"1,010",2877,Drumsticks,11.4,16.3,,,Silvio Hernandez,CO
+Jan,"1,011",2877,Drumsticks,11.4,16.3,,,Silvio Hernandez,AZ
+Jan,"1,012",4421,Practice Amp,45,87,,,Jeremy Smith,NM
+Jan,"1,013",9212,Guitar Picks,4,7,,,Patricia Johnson,CO
+Jan,"1,014",8722,Electric Guitar,344,502,,,Chuck Jones,CA
+Jan,"1,015",2877,Drumsticks,11.4,16.3,,,Patricia Johnson,AZ
+Jan,"1,016",2499,6 ft Instrument Cable,6.2,9.2,,,Jeremy Smith,CA
+Feb,"1,017",2242,Overdrive Pedal,60,124,,,Silvio Hernandez,NM
+Feb,"1,018",1109,Stickers,3,8,,,Jeremy Smith,CA
+Feb,"1,019",2499,6 ft Instrument Cable,6.2,9.2,,,Jeremy Smith,CO
+Feb,"1,020",2499,6 ft Instrument Cable,6.2,9.2,,,Jeremy Smith,NV
+Feb,"1,021",1109,Stickers,3,8,,,Silvio Hernandez,CO
+Feb,"1,022",2877,Drumsticks,11.4,16.3,,,Jeremy Smith,UT
+Feb,"1,023",1109,Stickers,3,8,,,Patricia Johnson,NM
+Feb,"1,024",9212,Guitar Picks,4,7,,,Silvio Hernandez,UT
+Feb,"1,025",2877,Drumsticks,11.4,16.3,,,Patricia Johnson,NV
+Feb,"1,026",6119,Acoustic Guitar Strings,9,14,,,Patricia Johnson,NM
+Feb,"1,027",6119,Acoustic Guitar Strings,9,14,,,Chuck Jones,NV
+Feb,"1,028",8722,Electric Guitar,344,502,,,Chuck Jones,AZ
+Feb,"1,029",2499,6 ft Instrument Cable,6.2,9.2,,,Silvio Hernandez,AZ
+Feb,"1,030",4421,Practice Amp,45,87,,,Silvio Hernandez,NV
+Feb,"1,031",1109,Stickers,3,8,,,Silvio Hernandez,CA
+Feb,"1,032",2877,Drumsticks,11.4,16.3,,,Chuck Jones,AZ
+Feb,"1,033",9822,Wah Pedal,58.3,98.4,,,Silvio Hernandez,CA
+Feb,"1,034",2877,Drumsticks,11.4,16.3,,,Silvio Hernandez,CO
+Mar,"1,035",2499,6 ft Instrument Cable,6.2,9.2,,,Patricia Johnson,CA
+Mar,"1,036",2499,6 ft Instrument Cable,6.2,9.2,,,Silvio Hernandez,NV
+Mar,"1,037",6622,18ft XLR Cable,42,77,,,Silvio Hernandez,NV
+Mar,"1,038",2499,6 ft Instrument Cable,6.2,9.2,,,Silvio Hernandez,NV
+Mar,"1,039",2877,Drumsticks,11.4,16.3,,,Silvio Hernandez,CA
+Mar,"1,040",1109,Stickers,3,8,,,Silvio Hernandez,AZ
+Mar,"1,041",2499,6 ft Instrument Cable,6.2,9.2,,,Chuck Jones,NM
+Mar,"1,042",8722,Electric Guitar,344,502,,,Jeremy Smith,NM
+Mar,"1,043",2242,Overdrive Pedal,60,124,,,Jeremy Smith,CA
+Mar,"1,044",2877,Drumsticks,11.4,16.3,,,Jeremy Smith,CA
+Mar,"1,045",8722,Electric Guitar,344,502,,,Patricia Johnson,AZ
+Mar,"1,046",6119,Acoustic Guitar Strings,9,14,,,Silvio Hernandez,UT
+Mar,"1,047",6622,18ft XLR Cable,42,77,,,Patricia Johnson,AZ
+Mar,"1,048",8722,Electric Guitar,344,502,,,Chuck Jones,AZ
+April,"1,049",2499,6 ft Instrument Cable,6.2,9.2,,,Chuck Jones,CO
+April,"1,050",2877,Drumsticks,11.4,16.3,,,Chuck Jones,AZ
+April,"1,051",6119,Acoustic Guitar Strings,9,14,,,Jeremy Smith,UT
+April,"1,052",6622,18ft XLR Cable,42,77,,,Jeremy Smith,AZ
+April,"1,053",2242,Overdrive Pedal,60,124,,,Chuck Jones,CA
+April,"1,054",4421,Practice Amp,45,87,,,Jeremy Smith,NV
+April,"1,055",6119,Acoustic Guitar Strings,9,14,,,Silvio Hernandez,NV
+April,"1,056",1109,Stickers,3,8,,,Jeremy Smith,CA
+April,"1,057",2499,6 ft Instrument Cable,6.2,9.2,,,Silvio Hernandez,CA
+April,"1,058",6119,Acoustic Guitar Strings,9,14,,,Patricia Johnson,AZ
+April,"1,059",2242,Overdrive Pedal,60,124,,,Jeremy Smith,AZ
+April,"1,060",6119,Acoustic Guitar Strings,9,14,,,Jeremy Smith,NV
+May,"1,061",1109,Stickers,3,8,,,Jeremy Smith,NV
+May,"1,062",2499,6 ft Instrument Cable,6.2,9.2,,,Chuck Jones,AZ
+May,"1,063",1109,Stickers,3,8,,,Jeremy Smith,CA
+May,"1,064",2499,6 ft Instrument Cable,6.2,9.2,,,Patricia Johnson,AZ
+May,"1,065",2499,6 ft Instrument Cable,6.2,9.2,,,Jeremy Smith,NM
+May,"1,066",2877,Drumsticks,11.4,16.3,,,Jeremy Smith,NV
+May,"1,067",2877,Drumsticks,11.4,16.3,,,Jeremy Smith,UT
+May,"1,068",6119,Acoustic Guitar Strings,9,14,,,Silvio Hernandez,CA
+May,"1,069",1109,Stickers,3,8,,,Jeremy Smith,AZ
+May,"1,070",2499,6 ft Instrument Cable,6.2,9.2,,,Patricia Johnson,AZ
+May,"1,071",1109,Stickers,3,8,,,Chuck Jones,AZ
+May,"1,072",1109,Stickers,3,8,,,Jeremy Smith,NV
+May,"1,073",6622,18ft XLR Cable,42,77,,,Jeremy Smith,CA
+May,"1,074",2877,Drumsticks,11.4,16.3,,,Jeremy Smith,AZ
+May,"1,075",1109,Stickers,3,8,,,Patricia Johnson,CA
+May,"1,076",1109,Stickers,3,8,,,Silvio Hernandez,AZ
+May,"1,077",9822,Wah Pedal,58.3,98.4,,,Patricia Johnson,AZ
+May,"1,078",2877,Drumsticks,11.4,16.3,,,Silvio Hernandez,NV
+June,"1,079",2877,Drumsticks,11.4,16.3,,,Silvio Hernandez,NM
+June,"1,080",4421,Practice Amp,45,87,,,Jeremy Smith,CA
+June,"1,081",6119,Acoustic Guitar Strings,9,14,,,Jeremy Smith,UT
+June,"1,082",1109,Stickers,3,8,,,Chuck Jones,CA
+June,"1,083",1109,Stickers,3,8,,,Chuck Jones,NV
+June,"1,084",6119,Acoustic Guitar Strings,9,14,,,Chuck Jones,AZ
+June,"1,085",9822,Wah Pedal,58.3,98.4,,,Jeremy Smith,NV
+June,"1,086",1109,Stickers,3,8,,,Patricia Johnson,AZ
+June,"1,087",2499,6 ft Instrument Cable,6.2,9.2,,,Chuck Jones,CA
+June,"1,088",2499,6 ft Instrument Cable,6.2,9.2,,,Chuck Jones,NM
+June,"1,089",6119,Acoustic Guitar Strings,9,14,,,Jeremy Smith,NV
+June,"1,090",2877,Drumsticks,11.4,16.3,,,Chuck Jones,CA
+June,"1,091",2877,Drumsticks,11.4,16.3,,,Patricia Johnson,NV
+June,"1,092",2877,Drumsticks,11.4,16.3,,,Jeremy Smith,CA
+June,"1,093",6119,Acoustic Guitar Strings,9,14,,,Silvio Hernandez,AZ
+June,"1,094",6119,Acoustic Guitar Strings,9,14,,,Jeremy Smith,CA
+June,"1,095",2499,6 ft Instrument Cable,6.2,9.2,,,Patricia Johnson,AZ
+June,"1,096",6119,Acoustic Guitar Strings,9,14,,,Jeremy Smith,AZ
+June,"1,097",9212,Guitar Picks,4,7,,,Patricia Johnson,NV
+June,"1,098",2877,Drumsticks,11.4,16.3,,,Silvio Hernandez,NM
+July,"1,099",2877,Drumsticks,11.4,16.3,,,Jeremy Smith,CA
+July,"1,100",6119,Acoustic Guitar Strings,9,14,,,Chuck Jones,UT
+July,"1,101",2499,6 ft Instrument Cable,6.2,9.2,,,Jeremy Smith,CA
+July,"1,102",2242,Overdrive Pedal,60,124,,,Silvio Hernandez,NV
+July,"1,103",2877,Drumsticks,11.4,16.3,,,Silvio Hernandez,AZ
+July,"1,104",2877,Drumsticks,11.4,16.3,,,Jeremy Smith,NV
+July,"1,105",2499,6 ft Instrument Cable,6.2,9.2,,,Silvio Hernandez,AZ
+July,"1,106",9822,Wah Pedal,58.3,98.4,,,Silvio Hernandez,CA
+July,"1,107",1109,Stickers,3,8,,,Patricia Johnson,NM
+July,"1,108",9822,Wah Pedal,58.3,98.4,,,Jeremy Smith,NV
+July,"1,109",8722,Electric Guitar,344,502,,,Silvio Hernandez,CA
+July,"1,110",8722,Electric Guitar,344,502,,,Patricia Johnson,NV
+July,"1,111",6622,18ft XLR Cable,42,77,,,Patricia Johnson,CA
+July,"1,112",6622,18ft XLR Cable,42,77,,,Jeremy Smith,AZ
+July,"1,113",9822,Wah Pedal,58.3,98.4,,,Chuck Jones,CA
+July,"1,114",2242,Overdrive Pedal,60,124,,,Silvio Hernandez,AZ
+July,"1,115",8722,Electric Guitar,344,502,,,Chuck Jones,AZ
+July,"1,116",6622,18ft XLR Cable,42,77,,,Jeremy Smith,NV
+July,"1,117",8722,Electric Guitar,344,502,,,Patricia Johnson,NM
+July,"1,118",9822,Wah Pedal,58.3,98.4,,,Silvio Hernandez,CA
+July,"1,119",2242,Overdrive Pedal,60,124,,,Chuck Jones,UT
+July,"1,120",2242,Overdrive Pedal,60,124,,,Jeremy Smith,CA
+July,"1,121",4421,Practice Amp,45,87,,,Jeremy Smith,NV
+July,"1,122",8722,Electric Guitar,344,502,,,Jeremy Smith,AZ
+July,"1,123",9822,Wah Pedal,58.3,98.4,,,Jeremy Smith,NV
+July,"1,124",4421,Practice Amp,45,87,,,Jeremy Smith,AZ
+Aug,"1,125",2242,Overdrive Pedal,60,124,,,Jeremy Smith,CA
+Aug,"1,126",9212,Guitar Picks,4,7,,,Jeremy Smith,NM
+Aug,"1,127",8722,Electric Guitar,344,502,,,Chuck Jones,NV
+Aug,"1,128",6622,18ft XLR Cable,42,77,,,Silvio Hernandez,CA
+Aug,"1,129",9822,Wah Pedal,58.3,98.4,,,Patricia Johnson,NV
+Aug,"1,130",4421,Practice Amp,45,87,,,Patricia Johnson,CA
+Aug,"1,131",9212,Guitar Picks,4,7,,,Patricia Johnson,AZ
+Aug,"1,132",9212,Guitar Picks,4,7,,,Patricia Johnson,CA
+Aug,"1,133",9822,Wah Pedal,58.3,98.4,,,Chuck Jones,AZ
+Aug,"1,134",9822,Wah Pedal,58.3,98.4,,,Jeremy Smith,AZ
+Aug,"1,135",8722,Electric Guitar,344,502,,,Chuck Jones,NV
+Aug,"1,136",2242,Overdrive Pedal,60,124,,,Jeremy Smith,NM
+Aug,"1,137",9822,Wah Pedal,58.3,98.4,,,Silvio Hernandez,CA
+Aug,"1,138",8722,Electric Guitar,344,502,,,Chuck Jones,UT
+Aug,"1,139",4421,Practice Amp,45,87,,,Jeremy Smith,CA
+Aug,"1,140",4421,Practice Amp,45,87,,,Silvio Hernandez,NV
+Aug,"1,141",9212,Guitar Picks,4,7,,,Silvio Hernandez,AZ
+Sept,"1,142",2242,Overdrive Pedal,60,124,,,Silvio Hernandez,NV
+Sept,"1,143",9822,Wah Pedal,58.3,98.4,,,Patricia Johnson,AZ
+Sept,"1,144",2242,Overdrive Pedal,60,124,,,Patricia Johnson,CA
+Sept,"1,145",4421,Practice Amp,45,87,,,Patricia Johnson,NM
+Sept,"1,146",8722,Electric Guitar,344,502,,,Patricia Johnson,NV
+Sept,"1,147",9822,Wah Pedal,58.3,98.4,,,Chuck Jones,CA
+Sept,"1,148",9212,Guitar Picks,4,7,,,Jeremy Smith,AZ
+Sept,"1,149",8722,Electric Guitar,344,502,,,Chuck Jones,AZ
+Oct,"1,150",2242,Overdrive Pedal,60,124,,,Jeremy Smith,UT
+Oct,"1,151",2242,Overdrive Pedal,60,124,,,Silvio Hernandez,CA
+Oct,"1,152",4421,Practice Amp,45,87,,,Chuck Jones,NV
+Oct,"1,153",8722,Electric Guitar,344,502,,,Jeremy Smith,AZ
+Oct,"1,154",9822,Wah Pedal,58.3,98.4,,,Silvio Hernandez,NV
+Oct,"1,155",4421,Practice Amp,45,87,,,Jeremy Smith,AZ
+Oct,"1,156",2242,Overdrive Pedal,60,124,,,Jeremy Smith,CA
+Oct,"1,157",9212,Guitar Picks,4,7,,,Jeremy Smith,NM
+Nov,"1,158",8722,Electric Guitar,344,502,,,Chuck Jones,NV
+Nov,"1,159",6622,18ft XLR Cable,42,77,,,Jeremy Smith,CA
+Nov,"1,160",9822,Wah Pedal,58.3,98.4,,,Patricia Johnson,NV
+Nov,"1,161",4421,Practice Amp,45,87,,,Silvio Hernandez,CA
+Nov,"1,162",9212,Guitar Picks,4,7,,,Chuck Jones,AZ
+Nov,"1,163",9212,Guitar Picks,4,7,,,Jeremy Smith,CA
+Nov,"1,164",9822,Wah Pedal,58.3,98.4,,,Jeremy Smith,AZ
+Nov,"1,165",9822,Wah Pedal,58.3,98.4,,,Jeremy Smith,AZ
+Nov,"1,166",8722,Electric Guitar,344,502,,,Jeremy Smith,NV
+Dec,"1,167",2242,Overdrive Pedal,60,124,,,Jeremy Smith,NM
+Dec,"1,168",9822,Wah Pedal,58.3,98.4,,,Jeremy Smith,CA
+Dec,"1,169",8722,Electric Guitar,344,502,,,Jeremy Smith,UT
+Dec,"1,170",4421,Practice Amp,45,87,,,Chuck Jones,CA
+Dec,"1,171",4421,Practice Amp,45,87,,,Silvio Hernandez,NV
